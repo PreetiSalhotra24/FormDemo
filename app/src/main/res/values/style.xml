@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textview_20sp_bold">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">@dimen/dimens_20</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="edittext_16sp_normal">
+        <item name="android:textColor">@color/colorSecondary</item>
+        <item name="android:textColorHint">@color/colorHint</item>
+        <item name="android:textSize">@dimen/dimens_16</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="white_16sp_bold">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/dimens_16</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="editTextAddShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style>
+
+</resources>

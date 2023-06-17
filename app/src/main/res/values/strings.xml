@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Form Demo</string>
+
+    <string name="first_name">First Name*</string>
+    <string name="last_name">Last Name*</string>
+    <string name="mobile">Mobile*</string>
+    <string name="blood_group">Blood Group*</string>
+    <string name="address">Address*</string>
+    <string name="city">City*</string>
+    <string name="state">State*</string>
+    <string name="country">Country*</string>
+    <string name="submit">Submit</string>
+
+</resources>
